@@ -16,7 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn pritesh surale
+          Learn pritesh surale , brave
+          
         </a>
       </header>
     </div>
